@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+@import "scss/veriables";
+
+body {
+  background-color: #fafafa;
+  font-family: $app-font;
+
+  *:focus {
+    outline: none;
+  }
+
+  h1 {
+    font-size: $h1-font-size;
+    margin: $h1-margin;
+    font-weight: bold;
+  }
+
+  h2 {
+    font-size: $h2-font-size;
+    margin: $h2-margin;
+    font-weight: bold;
+  }
+
+  p {
+    margin: $p-margin;
+  }
+}

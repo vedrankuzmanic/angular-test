@@ -1,0 +1,26 @@
+[
+  {
+    "id": 12,
+    "title": "Paris",
+    "color": "#ea0000",
+    "text": "Some long text"
+  },
+  {
+    "id": 111,
+    "title": "New York",
+    "color": "#fff600",
+    "text": "Some long text"
+  },
+  {
+    "id": 199,
+    "title": "Zurich",
+    "color": "#ffaa00",
+    "text": "Some long text"
+  },
+  {
+    "id": 214,
+    "title": "Barcelona",
+    "color": "#ff00ee",
+    "text": "Some long text"
+  }
+]
